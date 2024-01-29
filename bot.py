@@ -1,7 +1,7 @@
 import subprocess
 
-def hello_world():
+def bot():
     print("Hello, World!")
 
-hello_world()
+bot()
 
